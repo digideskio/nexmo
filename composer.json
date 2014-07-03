@@ -1,5 +1,5 @@
 {
-    "name": "artistan/nexmo",
+    "name": "opensolutions/nexmo",
     "description": "Nexmo Sms Client",
     "keywords": ["artistan", "sms", "laravel", "laravel4","client"],
     "license": [
